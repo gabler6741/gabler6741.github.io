@@ -1,7 +1,7 @@
 {
   "name": "goobletchat v2",
   "short_name": "goobletchat",
-  "start_url": ".",
+  "start_url": "./chat",
   "display": "standalone",
   "icons": [
     {
