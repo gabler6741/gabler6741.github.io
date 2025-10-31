@@ -1,0 +1,15 @@
+{
+  "cover": "cover.jpg",
+  "songs": [
+    { "title": "Dearest (I'm So Sorry)", "src": "song01.mp3" },
+    { "title": "Echoes Of An Empire", "src": "song02.mp3" },
+    { "title": "Skin & Bones", "src": "song03.mp3" },
+    { "title": "Forevermore", "src": "song04.mp3" },
+    { "title": "Darwin's Song", "src": "song05.mp3" },
+    { "title": "Nerds & Cigarettes", "src": "song06.mp3" },
+    { "title": "Dead Serious'", "src": "song07.mp3" },
+    { "title": "Vital Signs", "src": "song08.mp3" },
+    { "title": "If I Never Wake Again", "src": "song09.mp3" },
+    { "title": "Live Is Evil Spelled Backwards", "src": "song10.mp3" }
+  ]
+}
