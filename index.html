@@ -30,12 +30,8 @@
     <button onclick="checkPasswords()">Submit</button>
 
     <script>
-      // ---- CONFIG: Replace these hashes with your own ----
-      // Hash of "maintenancefriday"
       const HASH_PASS1 = "5b53b3b2e28c7492e65757e91f83d2d2344f642c2b80323e7083f39ff4a7a9b1";
-      // Hash of "pie"
       const HASH_PASS2 = "63e0f4ef67c7c04b9af50b1456b2f2ee22df7d21a2d2fc95c33706ffb9e6b83d";
-      // -----------------------------------------------------
 
       // Hash function using built-in Web Crypto API
       async function hashText(text) {
